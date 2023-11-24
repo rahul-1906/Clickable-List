@@ -1,0 +1,23 @@
+h1{
+    color: rgb(225, 48, 21);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container{
+    height: 300vh;
+    background-color: rgb(235, 212, 182);
+}
+
+ul{
+    list-style: none;
+    cursor: pointer;
+    font-size: 40px;
+   color: blue;
+   
+}
+
+h2{
+    color: rgb(7, 103, 72);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
